@@ -75,19 +75,10 @@ print(
 
 ## Evaluation
 
-The model was evaluated on the test dataset using the following metrics:
-
-*   Accuracy
-*   Precision
-*   Recall
-*   F1-score
-
 The results of the evaluation are as follows:
 
-*   Accuracy: 90%
-*   Precision: 92%
-*   Recall: 88%
-*   F1-score: 90%
+*   Final Test Accuracy: 94.62%
+*   Final Test Loss: 0.1988
 
 ## Contribution
 
